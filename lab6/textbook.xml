@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<jeremyLibrary>
+
+    <book>
+        <title>Operatins Systems Concepts</title>
+        <author>
+            <firstName>Abraham</firstName>
+            <lastName>Silberschatz</lastName>
+        </author>
+        <publisher>
+            <name>Penguin House</name>
+            <website>www.penguinhouse.com</website>
+        </publisher>
+        <yearPublication>2007</yearPublication>
+        <ISBN>3-3896-5271-3</ISBN>
+        <edition>8th Edition</edition>
+        <covertype>Hardbound</covertype>
+    </book>
+
+    <book>
+        <title>Complex Analysis and Differential Equations</title>
+        <author>
+            <firstName>Kumar</firstName>
+            <lastName>Sanghi</lastName>
+        </author>
+        <publisher>
+            <name>Zondervan</name>
+            <website>www.zondervan.com</website>
+        </publisher>
+        <yearPublication>2004</yearPublication>
+        <ISBN>0-7496-5271-3</ISBN>
+        <edition>8th Edition</edition>
+        <covertype>Paperback</covertype>
+    </book>
+
+    <book>
+        <title>Introduction to Micromanagement and Organizational chaos</title>
+        <author>
+            <firstName>Ted</firstName>
+            <lastName>Lasso</lastName>
+        </author>
+        <publisher>
+            <name>Ernest Homes Publishing</name>
+            <website>www.ernesthomes.com</website>
+        </publisher>
+        <yearPublication>2014</yearPublication>
+        <ISBN>4-9496-5271-3</ISBN>
+        <edition>5th Edition</edition>
+        <covertype>Hardbound</covertype>
+    </book>
+   
+    <book>
+        <title>Machine Learning for Dummy</title>
+        <author>
+            <firstName>Jason</firstName>
+            <lastName>Sudeikis</lastName>
+        </author>
+        <publisher>
+            <name>O'Reilly</name>
+            <website>www.oreilly.com</website>
+        </publisher>
+        <yearPublication>2004</yearPublication>
+        <ISBN>2-3496-5271-3</ISBN>
+        <edition>3rd Edition</edition>
+        <covertype>Paperback</covertype>
+    </book>
+
+    <book>
+        <title>Introduction To Computer Graphics</title>
+        <author>
+            <firstName>John</firstName>
+            <lastName>Murray</lastName>
+        </author>
+        <publisher>
+            <name>Penguin House</name>
+            <website>www.penguinhouse.com</website>
+        </publisher>
+        <yearPublication>2006</yearPublication>
+        <ISBN>6-7496-5271-3</ISBN>
+        <edition>6th Edition</edition>
+        <covertype>Hardcover</covertype>
+    </book>
+
+</jeremyLibrary>
